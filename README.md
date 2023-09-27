@@ -171,6 +171,7 @@ There are a few third-party UIs that you can use for monitoring:
 - [bull-repl](https://github.com/darky/bull-repl)
 - [bull-monitor](https://github.com/s-r-x/bull-monitor)
 - [Monitoro](https://github.com/AbhilashJN/monitoro)
+- [Arena](https://www.npmjs.com/package/bull-arena)
 
 **Bull <= v2**
 
